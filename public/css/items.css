@@ -1,0 +1,55 @@
+/* Instruments */
+#instrument1 { background-image: url(/images/INSTRUMENT1_1.png)}
+#instrument2 { background-image: url(/images/INSTRUMENT2_1.png)}
+#instrument3 { background-image: url(/images/INSTRUMENT3_1.png)}
+#instrument4 { background-image: url(/images/INSTRUMENT4_1.png)}
+#instrument5 { background-image: url(/images/INSTRUMENT5_1.png)}
+#instrument6 { background-image: url(/images/INSTRUMENT6_1.png)}
+#instrument7 { background-image: url(/images/INSTRUMENT7_1.png)}
+#instrument8 { background-image: url(/images/INSTRUMENT8_1.png)}
+
+/* Tracker Items */
+.sword0 { background-image: url(/images/SWORD_0.png) }
+.sword1 { background-image: url(/images/SWORD_1.png) }
+.sword2 { background-image: url(/images/SWORD_2.png) }
+#feather { background-image: url(/images/FEATHER_1.png) }
+.bracelet0 { background-image: url(/images/POWER_BRACELET_0.png) }
+.bracelet1 { background-image: url(/images/POWER_BRACELET_1.png) }
+.bracelet2 { background-image: url(/images/POWER_BRACELET_2.png) }
+#boots { background-image: url(/images/PEGASUS_BOOTS_1.png) }
+#flippers { background-image: url(/images/FLIPPERS_1.png) }
+#hookshot { background-image: url(/images/HOOKSHOT_1.png) }
+.shield0 { background-image: url(/images/SHIELD_0.png) }
+.shield1 { background-image: url(/images/SHIELD_1.png) }
+.shield2 { background-image: url(/images/SHIELD_2.png) }
+#rod { background-image: url(/images/MAGIC_ROD_1.png) }
+#shovel { background-image: url(/images/SHOVEL_1.png) }
+#bow { background-image: url(/images/BOW_1.png) }
+#bombs { background-image: url(/images/BOMB_1.png) }
+#leafs { background-image: url(/images/GOLD_LEAF_1.png) }
+#tailkey { background-image: url(/images/TAIL_KEY_1.png) }
+#anglerkey { background-image: url(/images/ANGLER_KEY_1.png) }
+#facekey { background-image: url(/images/FACE_KEY_1.png) }
+#birdkey { background-image: url(/images/BIRD_KEY_1.png) }
+#slimekey { background-image: url(/images/SLIME_KEY_1.png) }
+.trade0 { background-image: url(/images/TRADING_ITEM_YOSHI_DOLL_1.png) }
+.trade1 { background-image: url(/images/TRADING_ITEM_YOSHI_DOLL_1.png) }
+.trade2 { background-image: url(/images/TRADING_ITEM_RIBBON_1.png) }
+.trade3 { background-image: url(/images/TRADING_ITEM_DOG_FOOD_1.png) }
+.trade4 { background-image: url(/images/TRADING_ITEM_BANANAS_1.png) }
+.trade5 { background-image: url(/images/TRADING_ITEM_STICK_1.png) }
+.trade6 { background-image: url(/images/TRADING_ITEM_HONEYCOMB_1.png) }
+.trade7 { background-image: url(/images/TRADING_ITEM_PINEAPPLE_1.png) }
+.trade8 { background-image: url(/images/TRADING_ITEM_HIBISCUS_1.png) }
+.trade9 { background-image: url(/images/TRADING_ITEM_LETTER_1.png) }
+.trade10 { background-image: url(/images/TRADING_ITEM_BROOM_1.png) }
+.trade11 { background-image: url(/images/TRADING_ITEM_FISHING_HOOK_1.png) }
+.trade12 { background-image: url(/images/TRADING_ITEM_NECKLACE_1.png) }
+.trade13 { background-image: url(/images/TRADING_ITEM_SCALE_1.png) }
+.trade14 { background-image: url(/images/TRADING_ITEM_MAGNIFYING_GLASS_1.png) }
+#boomerang { background-image: url(/images/BOOMERANG_1.png) }
+#powder { background-image: url(/images/MAGIC_POWDER_1.png) }
+#ocarina { background-image: url(/images/OCARINA_1.png) }
+#ballad { background-image: url(/images/SONG1_1.png) }
+#mambo { background-image: url(/images/SONG2_1.png) }
+#song { background-image: url(/images/SONG3_1.png) }

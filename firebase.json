@@ -1,0 +1,32 @@
+{
+  "database": {
+    "rules": "database.rules.json"
+  },
+  "hosting": {
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      ".idea/*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "/horiz/**",
+        "destination": "/horiz-ootrr-tracker.html"
+      },
+      {
+        "source": "/tsgmain/**",
+        "destination": "/tsg-vertical.html"
+      },
+      {
+        "source": "/tsgmeds/**",
+        "destination": "/tsg-dungeon-rewards.html"
+      },
+      {
+        "source": "/**",
+        "destination": "/ladxr-tracker.html"
+      }
+    ]
+  }
+}
