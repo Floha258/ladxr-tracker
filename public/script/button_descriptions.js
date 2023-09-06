@@ -114,6 +114,10 @@ var items = {
         "type": "toggle",
         "size": "majoritem"
     },
+    "rooster": {
+        "type": "toggle",
+        "size": "majoritem"
+    },
     "trade": {
         "type": "cycle",
         "size": "majoritem",
